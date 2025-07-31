@@ -2,7 +2,6 @@
 
 💻 **Aspiring Machine Learning Engineer | Passionate Problem Solver**
 
----
 
 ## 🚀 About Me
 
@@ -39,8 +38,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth-Kumar-Bollinedi&show_icons=true&theme=radical" alt="Prashanth's GitHub Stats"/>
-</p>
