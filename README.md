@@ -1,9 +1,46 @@
-# Prashanth kumar Bollinedi
+# 👋 Hi there, I'm Prashanth Kumar Bollinedi!
 
-# 👋 Hi, I'm Prashanth Kumar!
+💻 **Aspiring Machine Learning Engineer | Passionate Problem Solver**
 
-💡 I’m learning Data Structures & Algorithms + Machine Learning
-🚀 I love contributing to open-source
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/prasanth-kumar-bollinedi) |
+---
 
-![Prashanth's GitHub Stats](https://github-readme-stats.vercel.app/api?
+## 🚀 About Me
+
+- 🎓 Currently honing my skills in **Data Structures & Algorithms (DSA)** and **Machine Learning**
+- 🔍 Exploring opportunities in **AI/ML**, **Software Development**, and **Open Source**
+- 🌱 Continuously learning and building projects to sharpen my technical skillset
+- 🤝 Eager to collaborate on impactful open-source projects and research-based initiatives
+- 🏅 Participated in coding contests on platforms like **LeetCode**, **Codeforces**, and **AtCoder**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Python
+- **Tools & Platforms:** Git, GitHub, VS Code, Linux
+- **Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow (beginner)
+- **Other Interests:** Competitive Programming, System Design, Explainable AI
+
+---
+
+## 📈 Current Highlights
+
+- 💡 Solved **500+ problems on LeetCode**
+- 💡 Solved **150+ problems on Codeforces**
+- 🔰 LeetCode Rating: **1641+**
+  
+
+---
+
+## 📬 Let’s Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/prasanth-kumar-bollinedi)
+- 📧 prasanthbollinedi@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth-Kumar-Bollinedi&show_icons=true&theme=radical" alt="Prashanth's GitHub Stats"/>
+</p>
