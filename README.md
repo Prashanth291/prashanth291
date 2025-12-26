@@ -1,5 +1,8 @@
 # 👋 Hi there, I'm Prashanth Kumar Bollinedi!
 
+![Background Photo](background.jpg)
+
+
 💻 **Aspiring Machine Learning Engineer | Passionate Problem Solver**
 
 
