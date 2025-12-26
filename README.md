@@ -109,7 +109,7 @@ me.say_hi()
 | Platform | Problems Solved | Rating | Profile |
 |----------|----------------|--------|---------|
 | 🟡 **LeetCode** | 700+ | 1930+ | [View Profile](https://leetcode.com/u/prashanth_d4) |
-| 🔵 **Codeforces** | 150+ | Rating | [View Profile](https://codeforces.com/profile/prashanth_2327) |
+| 🔵 **Codeforces** | 370+ | 1357+ | [View Profile](https://codeforces.com/profile/prashanth_2327) |
 
 </div>
 
@@ -120,22 +120,13 @@ me.say_hi()
 - 📈 Focused on mastering **advanced data structures, algorithms, and optimization techniques**
 - 💡 Strong foundation in **problem-solving, time complexity analysis, and algorithmic thinking**
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanth291&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth291&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth291&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%"/>
-</div>
 
 ---
 
 ## 🎯 Current Focus Areas
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366f1','primaryTextColor':'#fff','primaryBorderColor':'#818cf8','lineColor':'#a78bfa','secondaryColor':'#ec4899','tertiaryColor':'#14b8a6','noteBkgColor':'#1e293b','noteTextColor':'#fff'}}}%%
 mindmap
   root((Prashanth))
     Competitive Programming
@@ -144,6 +135,7 @@ mindmap
       Contest Participation
     Full Stack Development
       Spring & Spring Boot
+      Django & Flask
       REST APIs
       Frontend Frameworks
     Software Engineering
@@ -204,7 +196,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 *"First, solve the problem. Then, write the code." - John Johnson*
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=prashanth291&color=blueviolet&style=for-the-badge)
 
 **Thanks for visiting! Let's build the future together! 🚀**
 
