@@ -108,8 +108,8 @@ me.say_hi()
 
 | Platform | Problems Solved | Rating | Profile |
 |----------|----------------|--------|---------|
-| 🟡 **LeetCode** | 700+ | 1930+ | [View Profile](https://leetcode.com/u/prashanth_d4) |
-| 🔵 **Codeforces** | 370+ | 1357+ | [View Profile](https://codeforces.com/profile/prashanth_2327) |
+| 🟡 **LeetCode** | 730+ | 1930+ | [View Profile](https://leetcode.com/u/prashanth_d4) |
+| 🔵 **Codeforces** | 380+ | 1357+ | [View Profile](https://codeforces.com/profile/prashanth_2327) |
 
 </div>
 
@@ -184,7 +184,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prasanth-kumar-bollinedi)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:prasanthbollinedi2910@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:prashanthbollinedi2910@gmail.com)
 
 </div>
 
