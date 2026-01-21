@@ -6,11 +6,11 @@
 
 ### Aspiring Software Engineer | Competitive Programmer | Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanth-kumar-bollinedi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://prashanth-bollinedi-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=1)](https://linkedin.com/in/prasanth-kumar-bollinedi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://prashanth-bollinedi-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanthbollinedi2910@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prashanth_d4)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/prashanth_2327)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanthbollinedi2910@gmail.com)
 
 
 
@@ -128,7 +128,7 @@ me.say_hi()
 ## 🌟 Core Interests & Expertise
 
 ### 🏆 Competitive Programming
-My primary passion lies in solving algorithmic challenges and participating in coding contests. I believe that strong problem-solving skills form the foundation of excellent software engineering. Through consistent practice on platforms like LeetCode, Codeforces, and AtCoder, I've developed:
+My primary passion lies in solving algorithmic challenges and participating in coding contests. I believe that strong problem-solving skills form the foundation of excellent software engineering. Through consistent practice on platforms like LeetCode, Codeforces, I've developed:
 - Deep understanding of data structures and algorithms
 - Ability to optimize solutions for time and space complexity
 - Quick analytical thinking and debugging skills
