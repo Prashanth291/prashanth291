@@ -13,7 +13,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           # Adding LeetCode Knight stats here
-          plugin_leetcode: yes
-          plugin_leetcode_user: prashanth_d4
-          plugin_leetcode_sections: solved, community, contest
+          # plugin_leetcode: yes
+          # plugin_leetcode_user: prashanth_d4
+          # plugin_leetcode_sections: solved, community, contest
           config_timezone: Asia/Kolkata
