@@ -125,30 +125,24 @@ me.say_hi()
 
 ---
 
-## 🌟 Core Interests & Expertise
+## 🌟 Core Expertise & Stats
 
-### 🏆 Competitive Programming
-My primary passion lies in solving algorithmic challenges and participating in coding contests. I believe that strong problem-solving skills form the foundation of excellent software engineering. Through consistent practice on platforms like LeetCode, Codeforces, I've developed:
-- Deep understanding of data structures and algorithms
-- Ability to optimize solutions for time and space complexity
-- Quick analytical thinking and debugging skills
-- Experience with various problem-solving paradigms
+<div align="center">
+  <img src="./github-metrics.svg" alt="Prashanth's Professional Stats" />
+</div>
 
-### 💻 Full Stack Development
-I'm equally passionate about building real-world applications that solve practical problems. Currently focusing on:
-- **Backend Development:** Learning Spring and Spring Boot to build robust, scalable server-side applications
-- **API Design:** Creating RESTful APIs with clean architecture
-- **Frontend Integration:** Building responsive user interfaces
-- **Database Management:** Working with both SQL and NoSQL databases
-- **End-to-End Solutions:** Connecting all layers to deliver complete applications
+<br/>
 
-### 🚀 Career Versatility
-With my diverse skill set, I'm well-positioned for various roles:
-- **Software Development Engineer (SDE)** - Strong DSA foundation and full-stack capabilities
-- **Data Analyst** - Experience with Python, Pandas, NumPy, and data visualization
-- **ML Engineer** - Knowledge of machine learning fundamentals and frameworks
-- **Backend Developer** - Currently mastering Spring Boot and API development
-- **Full Stack Developer** - End-to-end application development skills
+<div align="center">
+
+### 🚀 Technical Versatility
+| 💻 SDE & Backend | 📊 Data & ML | 🛠️ Full Stack |
+| :--- | :--- | :--- |
+| **Java / Spring Boot** | **Python / Pandas** | **React / Node.js** |
+| Advanced DSA & Optimization | Scikit-learn & XGBoost | RESTful API Design |
+| Scalable Architecture | Data Visualization | End-to-End Solutions |
+
+</div>
 
 ---
 
