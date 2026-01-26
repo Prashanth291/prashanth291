@@ -106,22 +106,21 @@ me.say_hi()
 ## 📊 Competitive Programming Achievements
 
 <div align="center">
-
-### 🏆 Platform Statistics
-
-| Platform | Problems Solved | Rating | Profile |
-|----------|----------------|--------|---------|
-| 🟡 **LeetCode** | 730+ | 1930+ | [View Profile](https://leetcode.com/u/prashanth_d4) |
-| 🔵 **Codeforces** | 380+ | 1357+ | [View Profile](https://codeforces.com/profile/prashanth_2327) |
-
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <a href="https://leetcode.com/u/prashanth_d4">
+          <img src="https://leetcard.jacoblin.cool/prashanth_d4?theme=dark&font=Syne%20Mono&ext=contest" alt="LeetCode Stats" />
+        </a>
+      </td>
+      <td valign="top" width="50%">
+        <a href="https://codeforces.com/profile/prashanth_2327">
+          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=prashanth_2327&theme=github_dark" alt="Codeforces Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-### 💪 Competitive Programming Journey
-- ⚡ **700+ problems** solved on LeetCode with a rating of **1930+**
-- 🎯 **370+ problems** solved on Codeforces, continuously improving
-- 🏅 Regular participation in **weekly contests** across multiple platforms
-- 📈 Focused on mastering **advanced data structures, algorithms, and optimization techniques**
-- 💡 Strong foundation in **problem-solving, time complexity analysis, and algorithmic thinking**
 
 ---
 
@@ -129,19 +128,6 @@ me.say_hi()
 
 <div align="center">
   <img src="./github-metrics.svg" alt="Prashanth's Professional Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🚀 Technical Versatility
-| 💻 SDE & Backend | 📊 Data & ML | 🛠️ Full Stack |
-| :--- | :--- | :--- |
-| **Java / Spring Boot** | **Python / Pandas** | **React / Node.js** |
-| Advanced DSA & Optimization | Scikit-learn & XGBoost | RESTful API Design |
-| Scalable Architecture | Data Visualization | End-to-End Solutions |
-
 </div>
 
 ---
