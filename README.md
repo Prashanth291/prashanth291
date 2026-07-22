@@ -22,27 +22,47 @@
 
 I'm a passionate software engineer with a strong foundation in algorithms and a keen interest in building scalable, full-stack applications. Whether it's solving complex DSA problems or crafting end-to-end web solutions, I thrive on turning ideas into reality through clean, efficient code.
 
-```python
-class PrashanthKumar:
-    def __init__(self):
-        self.role = "Aspiring Software Engineer"
-        self.interests = ["Competitive Programming", "Full Stack Development"]
-        self.current_focus = ["DSA", "Development"]
-        self.learning = ["MERN" ,"Backend Architecture", "Spring Framework"]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
+```Java
+public class Prasanth {
 
-me = PrashanthKumar()
-me.say_hi()
+    public static void main(String[] args) {
+
+        BackendEngineer me = BackendEngineer.builder()
+
+                .withLanguage("Java")
+                .withFramework("Spring Boot")
+                .withDatabase("PostgreSQL")
+                .withCache("Redis")
+                .withMessaging("Kafka")
+                .withContainerization("Docker")
+
+                .interestedIn(
+                        "Distributed Systems",
+                        "System Design",
+                        "Competitive Programming")
+
+                .currentlyLearning(
+                        "Microservices",
+                        "Cloud",
+                        "Scalable Architecture")
+
+                .build();
+
+        me.keepLearning();
+        me.build();
+        me.solveProblems();
+    }
+}
 ```
+# 🚀 What I'm Currently Doing
 
-- 🎯 Currently mastering **Data Structures & Algorithms** and **Full Stack Development**
-- 🔭 Exploring opportunities in **Software Development**, **Data Analysis**, and **Machine Learning**
-- 🌱 Building full-stack applications with modern frameworks and technologies
-- 💻 Learning **Spring & Spring Boot** to strengthen backend development skills
-- 🤝 Open to collaborating on **open-source projects** and innovative tech solutions
-- 💡 Active competitive programmer across multiple platforms
+- ☕ Building backend applications with **Java & Spring Boot**
+- 🏗️ Learning **System Design** and **Distributed Systems**
+- ⚡ Exploring **Microservices**, **Kafka**, and **Redis**
+- 📚 Practicing **Data Structures & Algorithms**
+- 🚀 Building production-ready backend projects
+- 🤝 Open to collaborating on backend-focused open-source projects
+
 
 ---
 
@@ -124,13 +144,31 @@ me.say_hi()
 
 ---
 
-## 🌟 Core Expertise & Stats
+## 🌟 Core Expertise & GitCity
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Prashanth's Professional Stats" />
-</div>
 
----
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 📊 Core Expertise
+
+<img src="./github-metrics.svg" alt="Prasanth's Professional Stats"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🏙️ GitCity
+
+<img src="https://gitcity.natrajx.in/api/svg?username=Prashanth291" alt="GitCity Skyline"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 📫 Let's Connect
 
